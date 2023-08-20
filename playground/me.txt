@@ -1,0 +1,5 @@
+{{#user}}
+Name: Thanubuddi VamsiKrishna
+Skills: Python, HTML, CSS, JS, Machine Learning, Git
+Email: vamsikrishna2002.t@gmail.com
+{{/user}}
